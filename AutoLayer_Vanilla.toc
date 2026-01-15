@@ -1,8 +1,8 @@
-## Interface: 11508
-## Title: AutoLayer
+## Interface: 20505
+## Title: AutoLayer (TBC)
 ## Notes: Automatically invites people that want to layer switch
 ## Author: raizo
-## Version: 1.6.9
+## Version: 1.6.10
 ## SavedVariables: AutoLayerDB
 
 embeds.xml
